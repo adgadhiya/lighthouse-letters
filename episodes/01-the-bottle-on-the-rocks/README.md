@@ -18,6 +18,23 @@ Pastor Tom arrives with a covered casserole and a line that suggests he was expe
 
 - [story.md](story.md) — the 2,850-word short story fed to the engine
 
+## Rendered comic (Risograph style)
+
+10 pages, generated end-to-end by the BubbleStory engine. No hand-editing, no regeneration passes.
+
+| Page | Image |
+|---|---|
+| 1 | ![Page 1](comics/page-01.png) |
+| 2 | ![Page 2](comics/page-02.png) |
+| 3 | ![Page 3](comics/page-03.png) |
+| 4 | ![Page 4](comics/page-04.png) |
+| 5 | ![Page 5](comics/page-05.png) |
+| 6 | ![Page 6](comics/page-06.png) |
+| 7 | ![Page 7](comics/page-07.png) |
+| 8 | ![Page 8](comics/page-08.png) |
+| 9 | ![Page 9](comics/page-09.png) |
+| 10 | ![Page 10](comics/page-10.png) |
+
 ## Cast in this episode
 
 The episode draws on these reference portraits (also in the [project-level cast/ directory](../../cast/)):
